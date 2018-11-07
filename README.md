@@ -5,7 +5,7 @@
 ### Today Date  
 * 2018-11-07  
 git -> version 관리 solution  
-##GitHub Newist Function  
+## GitHub Newist Function  
 * wiki(설명,문서 등 작성가능)  
 * **Markdown**(.md == 마크다운파일)  
 * Setting -> Collaborators[**협업자 설정**]  
