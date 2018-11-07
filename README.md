@@ -12,3 +12,7 @@
 * Setting -> Collaborators[**협업자 설정**]  
   
 라이선스(공개의무) : 프로젝트 시 조심할 것
+
+
+* 하하하  
+* hahaha  
