@@ -4,7 +4,8 @@
 * 김선욱  
 ### Today Date  
 * 2018-11-07  
-git -> version 관리 solution  
+  
+## git -> version 관리 solution  
 ## GitHub Newist Function  
 * wiki(설명,문서 등 작성가능)  
 * **Markdown**(.md == 마크다운파일)  
